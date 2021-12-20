@@ -19,6 +19,6 @@ having count(*) >= 5
 
 
 # self_join
-- https://siyoon210.tistory.com/28
+https://siyoon210.tistory.com/28
 
 
