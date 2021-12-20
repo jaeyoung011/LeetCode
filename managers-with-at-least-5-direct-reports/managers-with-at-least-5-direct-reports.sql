@@ -18,5 +18,7 @@ group by m.id
 having count(*) >= 5
 
 
+# self_join
+- https://siyoon210.tistory.com/28
 
 
